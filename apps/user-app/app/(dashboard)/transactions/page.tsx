@@ -1,6 +1,9 @@
+import React from 'react'
 
-export default function() {
-    return <div>
-        Transactions
-    </div>
+const page = () => {
+  return (
+    <div>page</div>
+  )
 }
+
+export default page
